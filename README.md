@@ -8,8 +8,9 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👨‍💻 Contact </h2>
   <a href="https://github.com/soil0119"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
   <a href="http://134.185.114.192/"><img src="https://img.shields.io/badge/Homepage-00C7B7?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
-  <a href="mailto:soil0119@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-</div>
+  <a href="mailto:soil0119@naver.com">
+  <img src="https://img.shields.io/badge/Email-soil0119%40naver.com-6A9FB5?style=for-the-badge&logo=Mail.Ru&logoColor=white" />
+</a></div>
 
 <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>
 <p align="center">
