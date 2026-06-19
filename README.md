@@ -36,6 +36,7 @@
 <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 GitHub Stats </h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=soil0119&show_icons=true&theme=radical&include_all_commits=false&commits_year=2026)
+<div align="center">
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soil0119&layout=compact&theme=radical)
 
