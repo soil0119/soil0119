@@ -10,8 +10,6 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Email-soil0119%40naver.com-ffca28?style=flat-square&logo=Gmail&logoColor=white"/>
-  <a href="mailto:soil0119@naver.com">
 </div>
 
 <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
