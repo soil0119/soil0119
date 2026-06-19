@@ -35,14 +35,16 @@
 
 <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 GitHub Stats </h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=soil0119&show_icons=true&theme=radical&include_all_commits=false&commits_year=2026)
 <div align="center">
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soil0119&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=soil0119&show_icons=true&theme=radical&include_all_commits=false&commits_year=2026" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soil0119&layout=compact&theme=radical" alt="Top Langs" />
+</div>
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👨‍💻 Contact </h2>
   <a href="https://github.com/soil0119"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
   <a href="http://134.185.114.192/"><img src="https://img.shields.io/badge/Homepage-00C7B7?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
+<a href="mailto:soil0119@naver.com">
   <img src="https://img.shields.io/badge/Email-soil0119%40naver.com-6A9FB5?style=for-the-badge&logo=Mail.Ru&logoColor=white" />
-</a></div>
+</a></a></div>
