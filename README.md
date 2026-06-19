@@ -1,7 +1,7 @@
 # profile
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=Sanghun Park%20GitHub&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="soil0119 GitHub"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=SanghunPark%20GitHub&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="soil0119 GitHub"/>
 </div>
 
 <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>
